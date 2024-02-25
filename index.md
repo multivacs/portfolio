@@ -1,29 +1,21 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Data Prediction 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ADHD prediction with neural networks](/projects/adhd)
+Study of some recent architectures of neural networks for tabular data, and find the most accurate models that best diagnose the ADHD disorder.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Keras-white)](#)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--<img src="images/ADHD_thumbnail.jpg?raw=true"/> -->
 
 ---
 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
