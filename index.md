@@ -2,9 +2,7 @@
 
 ---
 
-### Data Prediction
-
-[ADHD prediction with neural networks](/projects/adhd)<br>
+### ADHD prediction with neural networks
 
 Study of some recent architectures of neural networks for tabular data, and find the most accurate models that best diagnose the ADHD disorder.
 
