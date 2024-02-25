@@ -12,9 +12,9 @@ Study of some recent architectures of neural networks for tabular data, and find
 
 ---
 
-### Category Name 2
+### Other projects
 
-- [Project 1 Title](http://example.com/)
+- [Theme Park Queue Controller with Kafka]()
 
 ---
 
