@@ -8,7 +8,7 @@ Study of some recent architectures of neural networks for tabular data, and find
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Keras-white)](#)
 
-[View code on Github]()
+[View code on Github](https://github.com/multivacs/adhd-prediction)
 
 ---
 
