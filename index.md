@@ -2,7 +2,7 @@
 
 ---
 
-### Employee Turnover Risk
+### [Employee Turnover Risk](/projects/employee_turnover_risk.md)
 
 System that using Decision Tree Machine Learning algorithm, calculates the risk of an employee to leave the company.
 
@@ -11,7 +11,7 @@ System that using Decision Tree Machine Learning algorithm, calculates the risk 
 [View Dashboard on Tableau](https://public.tableau.com/views/DashboardRiesgoFuga/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 
-### ADHD prediction with neural networks
+### [ADHD prediction with neural networks](/projects/adhd.md)
 
 Study of some recent architectures of neural networks for tabular data, and find the most accurate models that best diagnose the ADHD disorder.
 
