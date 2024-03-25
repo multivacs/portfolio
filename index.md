@@ -2,6 +2,15 @@
 
 ---
 
+### Employee Turnover Risk
+
+System that using Decision Tree Machine Learning algorithm, calculates the risk of an employee to leave the company.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+
+[View Dashboard on Tableau](https://public.tableau.com/views/DashboardRiesgoFuga/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+
 ### ADHD prediction with neural networks
 
 Study of some recent architectures of neural networks for tabular data, and find the most accurate models that best diagnose the ADHD disorder.
@@ -14,14 +23,14 @@ Study of some recent architectures of neural networks for tabular data, and find
 
 ### Other projects
 
-- [Theme Park Queue Controller with Kafka]()
-
----
-
-
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+
+
+
+---
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
 <!--<img src="images/ADHD_thumbnail.jpg?raw=true"/> -->
