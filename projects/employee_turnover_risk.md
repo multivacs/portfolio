@@ -7,7 +7,7 @@
 First, we made a brief analysis of the data to identify the state of the company at this very moment, quantify the problem, and generate insights that help us to understand the problem.
 If we see the data, there is a 16% of turnover rate, and if we make an analysis to try to identify the mean profile that leaves the company, we can see that employees with:
 
-- With no universitarian studies
+- No universitarian studies
 - Single
 - Belongs to the sales department
 - Low salary
@@ -28,7 +28,7 @@ Also, we calculated the Cost of Turnover using data from the Center for American
 
 From the actual data, in the previous year the cost of turnover from employees that have left the company are estimated in 2.7M
 
-If we apply make a campaign to retain the talent in the Sales Department, with a reduction of the 30% of the turnover rate, we can save the company around 37.000$
+If we apply a campaign strategy to retain the talent in the Sales Department, with a reduction of the 30% of the turnover rate, we can save the company around 37.000$
 
 
 ### 2. Machine Learning
