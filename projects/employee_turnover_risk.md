@@ -17,7 +17,7 @@ are in more risk to leave.
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![](/portfolio/images/employee_turnover_risk/ba_1.png?raw=true) |  ![](/portfolio//images/employee_turnover_risk/ba_2.png?raw=true) | ![](/portfolio//images/employee_turnover_risk/ba_3.png?raw=true) |
+| ![](https://github.com/multivacs/portfolio/images/employee_turnover_risk/ba_1.png?raw=true) |  ![](https://github.com/multivacs/portfolio//images/employee_turnover_risk/ba_2.png?raw=true) | ![](https://github.com/multivacs/portfolio//images/employee_turnover_risk/ba_3.png?raw=true) |
 
 
 Also, we calculated the Cost of Turnover using data from the Center for American Progress that estimates that:
@@ -37,8 +37,8 @@ After we have identify the problem and visualize the possible solutions, we deci
 
 We use decision trees because its explainability, that makes much more easy to communicate the possible solutions to apply, and why an employee is not satisfied in the company.
 
-![](/portfolio//images/employee_turnover_risk/ml.png?raw=true)
-![](/portfolio//images/employee_turnover_risk/ml_2.png?raw=true)
+![](https://github.com/multivacs/portfolio//images/employee_turnover_risk/ml.png?raw=true)
+![](https://github.com/multivacs/portfolio//images/employee_turnover_risk/ml_2.png?raw=true)
 
 
 ### 3. Deployment with Tableau
@@ -46,4 +46,4 @@ We use decision trees because its explainability, that makes much more easy to c
 Finally, we put all the output in the form of a dasboard using Tableau Public.
 The Dashboard is interactive, and it's available in the link [Dashboard Turnover Risk](https://public.tableau.com/views/DashboardRiesgoFuga/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-![](/portfolio//images/employee_turnover_risk/Dashboard.png?raw=true)
+![](https://github.com/multivacs/portfolio//images/employee_turnover_risk/Dashboard.png?raw=true)
